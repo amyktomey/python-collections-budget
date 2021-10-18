@@ -1,0 +1,1 @@
+class BudgetList(pass):
